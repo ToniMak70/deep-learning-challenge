@@ -13,6 +13,7 @@
 * __SPECIAL_CONSIDERATIONS__—Special considerations for application
 * __ASK_AMT__—Funding amount requested
 * __IS_SUCCESSFUL__—Was the money used effectively
+***Taken from UOM Bootcampspot module21 challenge instructions***
 
 ## Deliverables
 This challenge will be executed using Google Colab and completed by performing the following 5 steps per challenge instructions:
