@@ -36,5 +36,7 @@ Alphabet Soup, a charitable foundation, requires a tool to identify promising gr
 3) __Summary__: 
 
 The AlphabetSoupCharity_Optimization.ipynb (or nn_3layer model) achieves a test accuracy of 75.36%, exceeding the 75% target. To potentially improve performance, we recommend a deeper data analysis for enhanced feature selection and engineering. Further experimentation will be crucial for optimizing the model.
+
+
 ![nn_3layer_accuracy_plot](https://github.com/user-attachments/assets/072cd954-c885-4def-adea-f8e8ac9ae569)
 
