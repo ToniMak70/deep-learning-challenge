@@ -23,7 +23,7 @@ This challenge will be executed using Google Colab and completed by performing t
 * Copy Files Into a Repository
 
 ### Step-1: Preprocess the Data
-In this step I'll use my knowledge of Pandas and scikit-learn’s `StandardScaler()`, to preprocess the dataset, following the instructions outlined below for the initial model called `nn2layer.ipynb`. These steps prepare the data for __Step 2__, where I'll compile, train, and evaluate the neural network model.
+In this step I'll use my knowledge of Pandas and scikit-learn’s `StandardScaler()`, to preprocess the dataset, following the instructions outlined below for the initial model called `Alphabet_2layer.ipynb`. These steps prepare the data for Step 2, where I'll compile, train, and evaluate the neural network model.
 
 Start by uploading the starter file to Google Colab, then using the information we provided in the Challenge files, follow the instructions to complete the preprocessing steps.
 1) Read in the `charity_data.csv` to a Pandas DataFrame, and be sure to identify the following in your dataset:
@@ -40,7 +40,7 @@ Start by uploading the starter file to Google Colab, then using the information 
 
 ### Step-2: Compile, Train, and Evaluate the Model
 In this step, a neural network (deep learning model) will be designed to predict the success of Alphabet Soup-funded organizations using the provided dataset. This involves determining the input features, network architecture (neurons and layers), and subsequently compiling, training, and evaluating the model's accuracy and loss.
-1) Continue using the file in Google Colab in which you performed the preprocessing steps from __Step 1__.
+1) Continue using the file in Google Colab in which you performed the preprocessing steps from Step 1.
 2) Create a neural network model by assigning the number of input features and nodes for each layer using TensorFlow and Keras.
 3) Create the first hidden layer and choose an appropriate activation function.
 4) If necessary, add a second hidden layer with an appropriate activation function.
