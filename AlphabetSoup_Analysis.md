@@ -29,10 +29,12 @@ Alphabet Soup, a charitable foundation, requires a tool to identify promising gr
         * Feature Engineering:
             * Reintroduced the NAME column. Initially, both the EIN and NAME columns were removed, but the NAME column was restored in nn_3layer(optimized) to provide potentially valuable additional features.
         * Architectural Adjustments:
-            * nn_2layer model consisted of two hidden layers. nn_3layer(optimized) consisted of three hidden layers, with the third layer having the same amount of neurons as the second layer. This allowed for the testing of different layer sizes.
+            * nn_2layer model consisted of two hidden layers. The nn_3layer model consisted of three hidden layers, this allowed for the testing of different layer sizes.
         * Learnings from Previous Attempts:
             * The incremental changes to the model architecture and feature selection were informed by the results of the previous models, enabling a data-driven approach to optimization.
 
 3) __Summary__: 
 
-The AlphabetSoupCharity_Optimization_.h5 (or nn_3layer(optimized).ipynb) model achieves a test accuracy of 75.36%, exceeding the 75% target. To potentially improve performance, we recommend a deeper data analysis for enhanced feature selection and engineering. Further experimentation will be crucial for optimizing the model.
+The AlphabetSoupCharity_Optimization.ipynb (or nn_3layer model) achieves a test accuracy of 75.36%, exceeding the 75% target. To potentially improve performance, we recommend a deeper data analysis for enhanced feature selection and engineering. Further experimentation will be crucial for optimizing the model.
+![nn_3layer_accuracy_plot](https://github.com/user-attachments/assets/072cd954-c885-4def-adea-f8e8ac9ae569)
+
