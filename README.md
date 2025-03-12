@@ -97,9 +97,9 @@ This section of the challenge requires the creation of a performance report for 
 ## File Structure
 deep-learning-challenge/
 ├── h5_Models/
-├── ├── AlphabetSoupCharity(1).h5, AlphabetSoupCharity_Optimization.h5/   
+├── ├── AlphabetSoupCharity (1).h5, AlphabetSoupCharity_Optimization.h5/   
 ├── Images/
-├── ├── nn_3layer_accuracy_plot.png, nn_3layer_loss_plot.png/
+├── ├── nn_2layer_accuracy_plot.png, nn_2layer_loss_plot.png, nn_3layer_accuracy_plot.png, nn_3layer_loss_plot.png/
 ├── Alphabet_2layer.ipynb
 ├── AlphabetSoupCharity_Optimization.ipynb
 ├── LICENSE
